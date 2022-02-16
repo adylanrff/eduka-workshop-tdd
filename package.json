@@ -1,0 +1,22 @@
+{
+  "name": "eduka-workshop-tdd",
+  "version": "1.0.0",
+  "description": "Eduka workshop TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adylanrff/eduka-workshop-tdd.git"
+  },
+  "author": "Adylan Roaffa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adylanrff/eduka-workshop-tdd/issues"
+  },
+  "homepage": "https://github.com/adylanrff/eduka-workshop-tdd#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
